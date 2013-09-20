@@ -1,5 +1,5 @@
 --
--- ISO 4217 - Country Codes Data
+-- ISO 4217 - Currency Country Codes Data
 --
 
 INSERT INTO currencies (`code`,`money_name`) VALUES('AED','United Arab Emirates Dirham');
