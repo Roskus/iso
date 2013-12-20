@@ -1,5 +1,5 @@
 --
--- ISO 4217 - Country Data
+-- ISO 3166 - Country Data
 --
 
 INSERT INTO countries VALUES(248,'AALAND ISLANDS                                  ','AX','ALA');
@@ -142,6 +142,7 @@ INSERT INTO countries VALUES(175,'MAYOTTE                                       
 INSERT INTO countries VALUES(484,'MEXICO                                          ','MX','MEX');
 INSERT INTO countries VALUES(583,'MICRONESIA, FEDERATED STATES OF                 ','FM','FSM');
 INSERT INTO countries VALUES(498,'MOLDOVA, REPUBLIC OF                            ','MD','MDA');
+INSERT INTO countries VALUES(499,'MONTENEGRO                                      ','ME','MNE');
 INSERT INTO countries VALUES(492,'MONACO                                          ','MC','MCO');
 INSERT INTO countries VALUES(496,'MONGOLIA                                        ','MN','MNG');
 INSERT INTO countries VALUES(500,'MONTSERRAT                                      ','MS','MSR');
@@ -190,7 +191,7 @@ INSERT INTO countries VALUES(674,'SAN MARINO                                    
 INSERT INTO countries VALUES(678,'SAO TOME AND PRINCIPE                           ','ST','STP');
 INSERT INTO countries VALUES(682,'SAUDI ARABIA                                    ','SA','SAU');
 INSERT INTO countries VALUES(686,'SENEGAL                                         ','SN','SEN');
-INSERT INTO countries VALUES(891,'SERBIA AND MONTENEGRO                           ','CS','SCG');
+INSERT INTO countries VALUES(688,'SERBIA                                          ','RS','SRB');
 INSERT INTO countries VALUES(690,'SEYCHELLES                                      ','SC','SYC');
 INSERT INTO countries VALUES(694,'SIERRA LEONE                                    ','SL','SLE');
 INSERT INTO countries VALUES(702,'SINGAPORE                                       ','SG','SGP');
@@ -201,6 +202,7 @@ INSERT INTO countries VALUES(706,'SOMALIA                                       
 INSERT INTO countries VALUES(710,'SOUTH AFRICA                                    ','ZA','ZAF');
 INSERT INTO countries VALUES(239,'SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS    ','GS','SGS');
 INSERT INTO countries VALUES(724,'SPAIN                                           ','ES','ESP');
+INSERT INTO countries VALUES(728,'SOUTH SUDAN                                     ','SS','SSD');
 INSERT INTO countries VALUES(144,'SRI LANKA                                       ','LK','LKA');
 INSERT INTO countries VALUES(736,'SUDAN                                           ','SD','SDN');
 INSERT INTO countries VALUES(740,'SURINAME                                        ','SR','SUR');
