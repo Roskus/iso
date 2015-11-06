@@ -2,7 +2,7 @@
 -- Table structure for table `countries`
 --
 
-CREATE TABLE IF NOT EXISTS `countries` (
+CREATE TABLE IF NOT EXISTS `country` (
   `id` int(10) unsigned NOT NULL,
   `name` varchar(80) COLLATE utf8_unicode_ci NOT NULL,
   `a2` char(2) COLLATE utf8_unicode_ci NOT NULL,
