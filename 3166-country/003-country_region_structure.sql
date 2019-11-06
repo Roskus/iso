@@ -21,3 +21,8 @@ ALTER TABLE `country_region`
 --
 ALTER TABLE `country_region`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- ADD FOREIGN KEY
+-- 
+ALTER TABLE `country_region` ADD CONSTRAINT `fk_country_id` FOREIGN KEY (`country_id`) REFERENCES `country`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;
