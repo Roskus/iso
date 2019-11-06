@@ -4,7 +4,7 @@
 
 CREATE TABLE IF NOT EXISTS `country` (
   `id` int(10) unsigned NOT NULL,
-  `name` varchar(80) COLLATE utf8_unicode_ci NOT NULL,
+  `name` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
   `a2` char(2) COLLATE utf8_unicode_ci NOT NULL,
   `a3` char(3) COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`id`)
