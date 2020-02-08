@@ -3,6 +3,8 @@ ISO
 
 Database ISO Codes
 
-3166 - Country Codes  http://www.iso.org/iso/home/standards/country_codes.htm
+ISO 639 - Language Codes https://www.iso.org/iso-639-language-codes.html
 
-4217 - Currency Codes http://www.iso.org/iso/home/standards/currency_codes.htm
+ISO 3166 - Country Codes  http://www.iso.org/iso/home/standards/country_codes.htm
+
+ISO 4217 - Currency Codes http://www.iso.org/iso/home/standards/currency_codes.htm
