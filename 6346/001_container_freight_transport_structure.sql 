@@ -1,0 +1,19 @@
+--
+-- Table structure for table `container_type_group`
+--
+CREATE TABLE container_type_group (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    code VARCHAR(10) NOT NULL,
+    description VARCHAR(255) NOT NULL
+);
+
+--
+-- Table structure for table `container_size_type`
+--
+CREATE TABLE container_size_type (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    group_id INT NOT NULL,
+    code VARCHAR(10) NOT NULL,
+    description VARCHAR(255) NOT NULL,
+    FOREIGN KEY (group_id) REFERENCES container_type_group(id)
+);

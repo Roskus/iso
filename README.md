@@ -13,3 +13,4 @@ ISO 3166 - Country Codes  http://www.iso.org/iso/home/standards/country_codes.ht
 
 ISO 4217 - Currency Codes http://www.iso.org/iso/home/standards/currency_codes.htm
 
+ISO 6346:2022 - Freight containers https://www.iso.org/obp/ui/en/#iso:std:iso:6346:ed-4:v2:en
